@@ -29,7 +29,7 @@ This project is a simple blog application built using Django, a powerful web fra
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/django-blog-app.git
+   git clone https://github.com/samagra44/django-blog-app.git
    ```
 
 2. **Navigate to Project Directory:**
